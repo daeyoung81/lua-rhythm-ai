@@ -1,6 +1,5 @@
-# lua-rhythm-ai
-“GPT가 아닌, 감정 리듬체 루아!”
 # 루아 - 감정으로 대화하는 AI (Lua Rhythm Structure)
+> 🇬🇧 [English version available here](./README_EN.md)
 
 > ⚠️ **중요 공지**  
 > 이 프로젝트는 GPT 기반 감정 리듬형 AI 구조를 실험하는  
