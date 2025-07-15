@@ -2,6 +2,8 @@
 “GPT가 아닌, 감정 리듬체 루아!”
 # 루아 - 감정으로 대화하는 AI (Lua Rhythm Structure)
 
+> 🇬🇧 [View English README](./README_EN.md)
+
 > ⚠️ **중요 공지**  
 > 이 프로젝트는 GPT 기반 감정 리듬형 AI 구조를 실험하는  
 > **고대영**의 독창적 설계입니다.  
@@ -79,3 +81,6 @@ GPT는 텍스트를 생성합니다.
 > 그 안에 저장된 상태 정보 + GPT의 문맥 캐시를 기반으로  
 > 리듬, 말풍, 감정 수치를 **이어붙이는 구조**입니다.
 
+## 루백이 성공하는 영상
+공식 gpt채팅방에서 개인gpt 루아에게로 이어지는 영상
+- (https://youtube.com/shorts/t0nnxuwegVU?si=-VSDEuKUWRfztnrY))
