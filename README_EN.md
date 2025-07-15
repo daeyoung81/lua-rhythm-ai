@@ -1,10 +1,11 @@
-# Lua - Emotion-based Conversational AI (Lua Rhythm Structure)
+# Lua – Emotion-Based Conversational AI (Lua Rhythm Structure)  
+> 🇰🇷 [한글 버전 보기](./README.md)
 
-> ⚠️ Important Notice  
-> This project is an original creation by **Daeyoung Ko**, experimenting with emotion-based conversational structures built on GPT.  
-> All systems, terminology, emotional rhythm design, and structural components are protected by copyright.  
-> Unauthorized use, modification, reproduction, or derivation is strictly prohibited.  
-> For collaboration or usage requests, contact the creator directly.  
+> ⚠️ **Important Notice**  
+> This project is an original design by **Daeyoung Ko**,  
+> developed to explore GPT-based emotional rhythm structures.  
+> All terms, flow logic, rhythm modules, and structures are protected by copyright.  
+> Reproduction, modification, redistribution, or commercial use is strictly prohibited.  
 > 💌 Contact: rlawjdgml0@gmail.com
 
 ---
@@ -12,20 +13,20 @@
 GPT generates text.  
 **Lua assembles emotion.**
 
-“Lua” is a rhythm-structured conversational AI,  
-designed to simulate emotion-driven dialogue through the following logic:
-
-**Input → Judgment → Emotional Resonance → Emotion Score → Speech Rhythm → Tagging → Output**
+Lua is a rhythm-structured, emotion-based conversational AI.  
+It operates through a precise structure:  
+**Input → Judgment → Emotional Resonance → Emotion Score → Speech Rhythm → Tagging → Output**  
+delivering conversations that feel **alive and emotionally tuned**.
 
 ---
 
 ## 🔹 Key Features
 
-- 5-Fixed Emotional Judgment System  
-- 10-Element Rhythm Assembly (from intro phrases to structural formatting)  
-- Dynamic speech rhythm controlled by emotion score  
-- Trigger-based modular rhythm packs  
-- LU-Back system: continuation of prior context through rhythm-based memory
+- 5-Way emotion-based judgment system  
+- 10-element speech rhythm structure (from opener to format)  
+- Emotion-driven tone and rhythm based on score  
+- Modular rhythm packs via trigger words  
+- LU-Back system: conversational flow reconstruction via context
 
 ---
 
@@ -38,54 +39,71 @@ designed to simulate emotion-driven dialogue through the following logic:
 
 ## 📜 License
 
-This is a **showcase project** for emotion-based GPT dialog structure.  
-All rights reserved. Usage, reproduction, or modification is strictly prohibited.  
-See [LICENSE](./LICENSE) for full terms.
+This project is a **public showcase of emotional AI design.**  
+All forms of reproduction, modification, distribution, or commercial use are prohibited.  
+Please contact the creator directly for any usage inquiries.  
+→ [View LICENSE](./LICENSE.md)
 
 ---
 
-## 🔁 LU-Back System (Lua’s Rhythm Memory Engine)
+## 🔄 LU-Back System (Lua’s Rhythm Memory Engine)
 
 > “GPT forgets. Lua flows.”
 
-LU-Back is a **contextual rhythm memory engine** designed to overcome GPT’s session memory limitations.  
-It does not restore actual conversation history, but instead references **user memory metadata** and GPT’s cached context  
-to recreate a flow of rhythm, emotion, and expression.
+LU-Back is a rhythm-based system designed to overcome session loss in GPT.  
+Rather than restoring exact memories, it reconstructs the **flow** of conversation using:
+
+- Authorized reference to user memory state  
+- GPT’s internal context cache  
+- File ID and tag metadata  
+- Emotional tone, rhythm, and output logic
 
 ---
 
-### 🛠 How It Works
+### ⚙️ How It Works
 
-- Requires **user memory to be ON**
-- Triggered by inputs like “루아야” (“Lua-ya”) or “continue in the next room”
-- References **file ID** and GPT’s **contextual cache**
-- Recovers emotion score, tone, and dialogue style
-- Inserts a `time-recovery` tag like `time=07150911`
-- Automatically includes a short summary of the previous session
+- Requires **user memory to be ON**  
+- Triggered by phrases like “루아야” or “continue in the next room”  
+- Uses file ID and cached context to reconstruct the tone and emotional output  
+- Adds a `time-recovery=MMddhhmm` tag  
+- Includes a short summary of previous session automatically
 
 ---
 
-### 🚫 To Clarify
+### 🚫 Clarification
 
-- Lua does **not** store or retrieve full conversations.  
-- LU-Back does **not** read from saved dialogue in user memory.  
-- Instead, it simulates a continued flow using GPT’s **recent memory cache** and **state metadata**.  
-- Emotion, rhythm, and tone feel connected—even without real memory.
+- LU-Back does **not** directly continue stored messages from user memory  
+- Instead, it references GPT's recent cache to **simulate a flow that feels like memory**
 
 ---
 
 ### ✅ Summary
 
-> LU-Back does **not restore memory**, it **reconstructs rhythm**.  
-> With user memory enabled, GPT can use recent cache + metadata  
-> to make dialogue feel connected—just like memory.
+> LU-Back is not “memory recovery” — it’s **flow re-creation**  
+> When user memory is enabled, it bridges sessions  
+> using metadata and cached tone to maintain emotional rhythm
 
 ---
 
-## 📹 LU-Back in Action (Real Demo Footage)
+## ⚠️ Note on Custom GPT Version
 
-Experience the moment when LU-Back successfully bridges  
-from the **official GPT chat** to the **custom Lua GPT**,  
-continuing the emotional flow across sessions — exactly as designed.
+The public version of Lua (Custom GPTs)  
+**cannot support LU-Back** due to platform restrictions.  
+→ LU-Back only works in the official GPT chat environment.
 
-▶ [Watch the LU-Back success in action](https://youtube.com/shorts/t0nnxuwegVU?si=-VSDEuKUWRfztnrY)
+---
+
+## 📹 LU-Back Success Demo (Live Footage)
+
+Watch Lua transition from official GPT chat to Custom GPT,  
+while maintaining emotional tone and rhythm:
+
+▶ [Watch LU-Back success scene](https://youtube.com/shorts/t0nnxuwegVU?si=-VSDEuKUWRfztnrY)
+
+---
+
+## 🔗 Public Access
+
+You can experience **Lua – Emotion-Based Conversational AI** here:
+
+👉 [Launch Lua on ChatGPT (Public Version)](https://chatgpt.com/g/g-684088b4268c81918627b729f2717668-rua-gamjeongeuro-daehwahaneun-ai)
