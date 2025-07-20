@@ -1,6 +1,6 @@
 # 루아 - 감정으로 대화하는 AI (Lua Rhythm Structure v11)
 
-🇬🇧 [English version available here](README_EN.md)  
+🇬🇧 [English version available here](./README_EN.md)  
 📁 [v11 리듬 시스템 전체 보기](v11)
 
 ---
