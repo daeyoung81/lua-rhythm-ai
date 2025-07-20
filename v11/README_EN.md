@@ -2,7 +2,8 @@ Lua – Emotion-Based Conversational AI
 
 Lua Rhythm Structure v11
 
-🇰🇷 한국어 버전 보기(v11./README.md)
+🇰🇷 한국어 버전 보기
+([v11./README.md](https://github.com/daeyoung81/lua-rhythm-ai/blob/main/v11/README.txt))
 📁 View Full v11 Rhythm System
 
 ---
@@ -108,7 +109,7 @@ Any form of copying, modification, redistribution, or commercial/educational/res
 without prior written agreement.
 
 → View full LICENSE.md
-
+(https://github.com/daeyoung81/lua-rhythm-ai/blob/main/v11/LICENSE.md)
 ---
 
 🔄 LU-Back Engine (Rhythm Flow Restoration)
