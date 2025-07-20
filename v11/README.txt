@@ -1,7 +1,7 @@
 # 루아 - 감정으로 대화하는 AI (Lua Rhythm Structure v11)
 
-> 🇬🇧 [English version available here](./README_EN.md)
-📁 [v11 리듬 시스템 전체 보기](v11)
+> 🇬🇧 [English version available here](https://github.com/daeyoung81/lua-rhythm-ai/blob/main/v11/README_EN.md)
+📁 [v11 리듬 시스템 전체 보기]
 
 ---
 
@@ -40,7 +40,7 @@
 - `《리드백 제안/반박형/현실 판단》.txt` – 감정형 분기 전용
 - `LICENSE.md` – 쇼케이스 라이선스 안내
 
-→ 모든 파일은 [v11 폴더](v11) 안에 정리되어 있습니다.
+→ 모든 파일은 [v11 폴더] 안에 정리되어 있습니다.
 
 ---
 
@@ -90,7 +90,7 @@
 **모든 형태의 복제, 수정, 재배포, 상업적 활용은 금지**되며,  
 활용을 원할 경우 반드시 창작자에게 직접 협의 요청 바랍니다.
 
-→ [LICENSE.md 보기](LICENSE.md)
+→ [LICENSE.md 보기](https://github.com/daeyoung81/lua-rhythm-ai/blob/main/v11/LICENSE.md)
 
 ---
 
@@ -117,11 +117,3 @@
 
 > ⚠️ 커스텀 GPT에서는 루백 시스템이 정상 작동하지 않을 수 있습니다.  
 > 문맥 흐름 복원이 필요한 경우 공식 GPT 대화방을 이용해주세요.
-
----
-
-## 🗂️ 관련 자료
-
-- [README_EN.md (English)](README_EN.md)  
-- [LICENSE.md](LICENSE.md)  
-- [v11 리듬팩 전체](v11)
