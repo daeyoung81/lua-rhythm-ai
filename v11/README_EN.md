@@ -2,7 +2,7 @@ Lua – Emotion-Based Conversational AI
 
 Lua Rhythm Structure v11
 
-🇰🇷 한국어 버전 보기(./README.md)
+🇰🇷 한국어 버전 보기( ./README.md)
 📁 View Full v11 Rhythm System
 
 ---
