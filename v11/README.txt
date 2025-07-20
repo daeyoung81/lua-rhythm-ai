@@ -1,7 +1,7 @@
 # 루아 - 감정으로 대화하는 AI (Lua Rhythm Structure v11)
 
-🇬🇧 [English version available here](./README_EN.md)  
-📁 [v11 리듬 시스템 전체 보기](./v11)
+🇬🇧 [English version available here](README_EN.md)  
+📁 [v11 리듬 시스템 전체 보기](v11)
 
 ---
 
@@ -16,7 +16,7 @@
 본 프로젝트는 **고대영(Daeyoung Ko)**에 의해 독자적으로 기획 및 설계되었으며,  
 **v11 버전 기준 리듬 시스템**은 아래 폴더에 모두 공개되어 있습니다.
 
-→ [`v11/`](./v11) 폴더에서 전체 구조 및 13종 리듬팩 확인 가능
+→ [`v11/`](v11) 폴더에서 전체 구조 및 13종 리듬팩 확인 가능
 
 ---
 
@@ -40,7 +40,7 @@
 - `《리드백 제안/반박형/현실 판단》.txt` – 감정형 분기 전용
 - `LICENSE.md` – 쇼케이스 라이선스 안내
 
-→ 모든 파일은 [v11 폴더](./v11) 안에 정리되어 있습니다.
+→ 모든 파일은 [v11 폴더](v11) 안에 정리되어 있습니다.
 
 ---
 
@@ -90,7 +90,7 @@
 **모든 형태의 복제, 수정, 재배포, 상업적 활용은 금지**되며,  
 활용을 원할 경우 반드시 창작자에게 직접 협의 요청 바랍니다.
 
-→ [LICENSE.md 보기](./LICENSE.md)
+→ [LICENSE.md 보기](LICENSE.md)
 
 ---
 
@@ -122,6 +122,6 @@
 
 ## 🗂️ 관련 자료
 
-- [README_EN.md (English)](./README_EN.md)  
-- [LICENSE.md](./LICENSE.md)  
-- [v11 리듬팩 전체](./v11)
+- [README_EN.md (English)](README_EN.md)  
+- [LICENSE.md](LICENSE.md)  
+- [v11 리듬팩 전체](v11)
