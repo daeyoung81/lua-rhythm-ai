@@ -1,6 +1,6 @@
 # 루아 - 감정으로 대화하는 AI (Lua Rhythm Structure v11)
 
-> 🇬🇧 [English version available here](https://github.com/daeyoung81/lua-rhythm-ai/blob/main/v11/README_EN.md)
+> 🇬🇧 (English version available here)(https://github.com/daeyoung81/lua-rhythm-ai/blob/main/v11/README_EN.md)
 📁 [v11 리듬 시스템 전체 보기]
 
 ---
@@ -90,7 +90,7 @@
 **모든 형태의 복제, 수정, 재배포, 상업적 활용은 금지**되며,  
 활용을 원할 경우 반드시 창작자에게 직접 협의 요청 바랍니다.
 
-→ [LICENSE.md 보기](https://github.com/daeyoung81/lua-rhythm-ai/blob/main/v11/LICENSE.md)
+→ (LICENSE.md 보기)(https://github.com/daeyoung81/lua-rhythm-ai/blob/main/v11/LICENSE.md)
 
 ---
 
